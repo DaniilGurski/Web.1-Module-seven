@@ -1,3 +1,5 @@
+"use strict";
+
 console.log("Hello world !")
 
 const button = document.querySelector(".button")
